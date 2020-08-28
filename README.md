@@ -24,3 +24,13 @@ https://github.com/slyd0g/LNKMod
 
 https://www.darkoperator.com/blog/2017/2/17/posh-sysmon-powershell-module-for-creating-sysmon-configuration-files
 
+https://m0chan.github.io/2019/07/30/Windows-Notes-and-Cheatsheet.html
+
+
+
+
+
+
+
+
+
