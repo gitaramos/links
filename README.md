@@ -26,7 +26,11 @@ https://www.darkoperator.com/blog/2017/2/17/posh-sysmon-powershell-module-for-cr
 
 https://m0chan.github.io/2019/07/30/Windows-Notes-and-Cheatsheet.html
 
+https://github.com/M4ximuss/Powerless
 
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md
+
+https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_windows.html
 
 
 
