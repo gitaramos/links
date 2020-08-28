@@ -21,3 +21,6 @@ https://github.com/kobs0N/Hacking-Cheatsheet
 https://gist.github.com/jeremypruitt/c435aefa2c2abaec02985d77fb370ec5
 
 https://github.com/slyd0g/LNKMod
+
+https://www.darkoperator.com/blog/2017/2/17/posh-sysmon-powershell-module-for-creating-sysmon-configuration-files
+
