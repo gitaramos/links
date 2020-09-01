@@ -32,6 +32,15 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20an
 
 https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_windows.html
 
+https://github.com/ANSSI-FR
+
+https://www.google.com/url?q=https://www.first.org/resources/papers/conf2017/Windows-Credentials-Attacks-and-Mitigation-Techniques.pdf&sa=U&ved=2ahUKEwiu-rXzpcfrAhWtw4sKHfdjAhoQFjACegQIARAB&usg=AOvVaw3wB5VwKF8Boq_sqlCsHbKf
+
+
+
+
+
+
 
 
 
